@@ -155,8 +155,7 @@ header ul {
     justify-content: center;
     font-size: 1.25rem;
     list-style: none;
-    text-align: center;
-    padding-top: 35px;
+    margin-top: 30px;
 }
 
 header ul li {
