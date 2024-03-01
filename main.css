@@ -184,7 +184,9 @@ header h1 {
 header h1 span {
     display: block;
     font-size: 1.55rem;
-    width: 900px;
+    max-width: 900px;
+    padding-left: 15px;
+    padding-right: 15px;
     margin: auto;
     margin-top: 10px;
     font-weight: 300;
